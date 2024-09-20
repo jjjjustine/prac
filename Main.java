@@ -13,7 +13,7 @@ p.sex = 'F';
 p.age = 18;
 
 System.out.println(p.firstName);
-
+System.out.println(p.age);
     }
     
 }
