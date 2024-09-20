@@ -14,7 +14,7 @@ p.age = 18;
 
 System.out.println(p.firstName);
 System.out.println(p.age);
-
+System.out.print(p.sex);
     }
     
 }
